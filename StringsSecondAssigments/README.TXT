@@ -1,12 +1,23 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# 🧬 String Second Assignments — DNA Strings Practice
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This project deepens the use of strings to analyze **DNA sequences** and find gene patterns.
+
+### 🎯 Learning goals
+- Work with multiple string search patterns.
+- Use nested loops to locate gene start and stop codons.
+- Count genes and compute GC ratios.
+
+### 🧰 Tech
+Java · BlueJ
+
+### ▶️ How to run
+Open in **BlueJ** and call the `tester()` method.  
+Use sample DNA text files from the course or your own DNA strings.
+
+### 📊 Example tasks
+- Find all genes within a DNA string.
+- Print genes longer than 60 characters.
+- Count genes with a GC ratio higher than 0.35.
+
+### 📚 Notes
+Part of the Duke University specialization *Programming Foundations with Java*.
