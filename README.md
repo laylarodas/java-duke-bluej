@@ -13,9 +13,9 @@ These exercises focus on clean code, logical thinking, and understanding how sma
 | **StringsFirstAssignments** | String manipulation, loops, simple methods. |
 | **StringsSecondAssignments** | Pattern searching, substring extraction, text processing. |
 | **StringsThirdAssignments** | File handling, counting patterns, structured methods. |
-| **tagFinder1** | Finding HTML-like tags and debugging. |
 | **Debugging** | Identifying and fixing logical and syntax errors. |
 | **perimeter_quiz** | Geometry basics and object-oriented logic. |
+| **ParsingExportData** | Working with CSV files, filtering data, and practicing structured parsing logic. |
 
 Each folder is an independent BlueJ project, containing a `package.bluej` file for easy opening.
 
